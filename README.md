@@ -17,7 +17,7 @@
 ### 2.代码说明
 ###### 2.1 人体红外传感器
 运行 detect_pelple.py 工作原理，注意GPIO口有BCM和BOARD两种模式
-![enter description here](./images/20180130214951056.jpg)
+
 
 ###### 2.2 蜂鸣器
 查看 initial_buzzer.py 有蜂鸣器的基本使用方法
